@@ -1,0 +1,18 @@
+/**
+ * Title: about.component.css
+ * Author: Diandra McKenzie
+ * Date: 23 September 2020
+ * Description: About component styling
+ */
+
+.logo {
+  padding: 25px;
+  margin-left: 50%;
+  width: 350px;
+}
+
+.about{
+  width: 600px;
+  font-size: 1.2em;
+  line-height: 2;
+}
